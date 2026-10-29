@@ -1,0 +1,14 @@
+{
+    "name": "makecode-maqueen-tutorials",
+    "description": "MakeCode-Tutorials zum Workshop Maqueen Grand Prix (FRANCOR e. V.)",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "erster-kontakt.md"
+    ],
+    "preferredEditor": "blocksprj"
+}
